@@ -1,12 +1,15 @@
 ## This is a markdown file
 
-*.md file markers*
+.md file markers
 
 For h1 tag use #
+#heading 1
+
 For h6 use ######
+###### heading 6
 
 For Italic text enclose the text within * or _
-*this is an italic text enclosed within *)*
+*this is an italic text enclosed within * *
 _this is an italic text enclosed within __
 
 For Bold, enclose within ** or __
@@ -14,6 +17,7 @@ For Bold, enclose within ** or __
 __This will also be bold__
 
 For blockquotes use >
+
 As Kanye West said:
 
 > We're living the future so
