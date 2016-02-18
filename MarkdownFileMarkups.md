@@ -24,6 +24,9 @@ As Kanye West said:
 > the present is our past.
 
 Object {
+
 	name 	:	String,
+
 	age		:	Number
+
 }
