@@ -26,7 +26,6 @@ As Kanye West said:
 Object {
 
 	name 	:	String,
-
 	age		:	Number
 
 }
