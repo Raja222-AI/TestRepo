@@ -9,7 +9,7 @@ For h6 use ######
 ###### heading 6
 
 For Italic text enclose the text within * or _
-*this is an italic text enclosed within * *
+*this is an italic text enclosed within \* *
 _this is an italic text enclosed within __
 
 For Bold, enclose within ** or __
