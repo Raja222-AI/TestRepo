@@ -2,4 +2,4 @@
 //v 1.0
 
 function getVersion() {
-  console.log("This is version 1.0")
+  console.log("This is version 1.0 from branch cw-v1")
