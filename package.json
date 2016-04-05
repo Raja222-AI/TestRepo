@@ -1,0 +1,20 @@
+{
+  "name": "test-repo",
+  "version": "1.0.0",
+  "description": "Test repo to demo branching - for branch cw-v1",
+  "main": "cw-v1-file.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smuraligs/TestRepo.git"
+  },
+  "author": "Muralidharan Selvaraj <smuraligs@gmail.com>",
+  "bugs": {
+  },
+  "homepage": "https://github.com/smuraligs/TestRepo.git",
+  "devDependencies": {
+  },
+  "dependencies": {
+  }
+}
