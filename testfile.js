@@ -4,3 +4,7 @@
 function getVersion() {
   console.log("Version 1.0 master")
 }
+
+function fromWeb() {
+  //added this method after creating local branch
+}
